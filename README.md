@@ -1,1 +1,1 @@
-# Salary-Prediction-Analysis
+# Salary and Job Postings
